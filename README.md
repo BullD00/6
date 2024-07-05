@@ -1,7 +1,3 @@
-Demo:
-
-https://bulld00.github.io/6/
-
 
 Hello
 
