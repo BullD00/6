@@ -2,10 +2,10 @@
 
 https://bulld00.github.io/6/
 
-## Hello
+### Hello
 
-## I'm Daniel P.
+### I'm Daniel P.
 
-## This is my to-do list i hope you like it.
+### This is my to-do list i hope you like it.
 
-## Bye :D
+### Bye :D
