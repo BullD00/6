@@ -1,47 +1,12 @@
-.js-form {
-  font-family: "Roboto Mono", monospace;
-  font-optical-sizing: auto;
-  font-weight: 100;
-  font-style: normal;
+html{
+    box-sizing: border-box;
 }
 
-.js-tasks {
-    font-family: "Roboto Mono", monospace;
-    font-optical-sizing: auto;
-    font-weight: 100;
-    font-style: normal;
-  }
-
-.flex {
-    display: flex;
-    max-width: 800px;
-    border: 1px solid #ccc;
-    padding: 20px;
-    margin: 0 auto;
+*, ::before, ::after{
+    box-sizing: inherit;
 }
 
-@media(max-width: 767px) {
-    .flex {
-        flex-wrap: wrap;
-    }
+.document{
+    background-color: #eee;
+    font-family: 'Montserrat', sans-serif;
 }
-
-.flex__item {
-    flex-basis: 34%;
-    margin: 20px;
-}
-
-@media(max-width: 767px) {
-    .flex__item {
-        flex-basis: 34%;
-        flex-grow: 1;
-    }
-}
-
-@media(max-width: 500px) {
-    .flex__item {
-        flex-basis: 51%;
-        flex-grow: 1;
-    }
-}
-
